@@ -31,12 +31,21 @@ $(function() {
          * in the allFeeds object and ensures it has a URL defined
          * and that the URL is not empty.
          */
-
+         it('have each got a valid url associated', function(){
+            allFeeds.forEach(function(feed){
+                let url = feed.url;
+                const urlSubstring = 'http';
+                expect(url).toBeDefined();
+                expect(url.indexOf(urlSubstring)).not.toBe(-1);
+            })
+         })
+         
 
         /* TODO: Write a test that loops through each feed
          * in the allFeeds object and ensures it has a name defined
          * and that the name is not empty.
          */
+         
     });
 
 
