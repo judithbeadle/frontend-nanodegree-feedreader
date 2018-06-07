@@ -1,4 +1,4 @@
-# Feed Reader Jasmin Testing
+# Feed Reader Jasmine Testing
 
 A JS testing project using the Jasmine framework
 
@@ -13,11 +13,11 @@ A JS testing project using the Jasmine framework
 
 This project is part of the Udacity Frontend Nanodegree. 
 
-Based a functional Feedreader app ([see source code](https://github.com/udacity/frontend-nanodegree-feedreader)), the project allows to run a comprehensive list of tests using the [Jasmin framework](https://jasmine.github.io/index.html)
+Starting with a Feedreader app ([see source code](https://github.com/udacity/frontend-nanodegree-feedreader)), the project allows to run a comprehensive list of tests using the [Jasmine framework](https://jasmine.github.io/index.html)
 
 ## Running tests 
 
-To be able to view and alter Tests you first need to clone this repository or download all the files.
+To be able to view or alter tests you first need to clone this repository or download all the files.
 
 ### Dependencies 
 
@@ -47,5 +47,3 @@ To create the game I have followed the online course as well as using the follow
 ## Contributing
 
 This repository is part of a nanodegree project. Therefore, I will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
