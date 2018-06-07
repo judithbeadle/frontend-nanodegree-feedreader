@@ -128,7 +128,7 @@ $(function() {
         });
 
         it('should be different to previous Feed Selection', function(done){
-            expect(originalFeed === newFeed).toBe(false);
+            expect(firstFeed === secondFeed).toBe(false);
             done();
         });
 
