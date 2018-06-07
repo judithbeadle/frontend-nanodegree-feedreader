@@ -35,7 +35,7 @@ The test suites can be found under jasmine/spec/feedreader.js. For Documentation
 
 This is a project for the [Udacity Front-End Web Developer Nanodegree program](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001).
 
-To create the game I have followed the online course as well as using the following resources:
+To create the tests I have followed the online course as well as using the following resources:
 
 * [Jasmine documentation page](https://jasmine.github.io/pages/docs_home.html)
 * [stackoverflow](https://stackoverflow.com/), especially when I got stuck trying to use innerHTML in jQuery: [Why is innerHTML returning 'undefined'?](https://stackoverflow.com/questions/29435612/why-is-innerhtml-returning-undefined)
