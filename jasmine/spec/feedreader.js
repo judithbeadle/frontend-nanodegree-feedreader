@@ -110,7 +110,7 @@ $(function() {
         });
 
         it('should be different to previous Feed Selection', function(done){
-            expect(firstFeed === secondFeed).toBe(false);
+            expect(firstFeed).not.toEqual(secondFeed);
             done();
         });
     })
